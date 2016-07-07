@@ -19,4 +19,4 @@ $ docker run -d --restart always --name samba --hostname samba \
      armhf-samba
 ```
 
-Adapt the above command to suit your environment.
+If your setup is different, please adapt the above command to suit your environment.
